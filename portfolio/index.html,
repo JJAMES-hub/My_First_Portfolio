@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My First Webpage</title>
+</head>
+<body>
+
+  <h1>Welcome to My Portfolio</h1>
+  <h2>Introduction</h2>
+  <h3>Getting Started</h3>
+
+  <p>This is the first paragraph in my HTML journey.</p>
+  <p>I’m excited to build more web pages and explore frontend development.</p>
+  <p>This portfolio will grow as I learn more skills.</p>
+  <p>Thanks for visiting and checking out my project!</p>
+
+  <a href="https://www.alxafrica.com/" target="_blank">
+    <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo" width="300">
+  </a>
+
+</body>
+</html>
